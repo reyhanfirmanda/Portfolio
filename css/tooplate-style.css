@@ -316,9 +316,14 @@ b, strong {
 }
 .dark-mode .feature-card .uil,
 .dark-mode .navbar-light .navbar-brand,
-.dark-mode h1, .dark-mode h2, .dark-mode h3, .dark-mode h4, .dark-mode h5, .dark-mode h6,
+.dark-mode h1, .dark-mode h2, .dark-mode h4, .dark-mode h5, .dark-mode h6,
 .dark-mode .color-mode {
   color: #ffffff;
+}
+
+
+.dark-mode .sub-judul {
+  color: #353535;
 }
 .dark-mode .owl-carousel .owl-nav button.owl-next,
 .dark-mode .owl-carousel .owl-nav button.owl-prev,
@@ -976,3 +981,7 @@ border-color: transparent #dddddd transparent transparent;
   background-color: #EBB300;
   /* border-color: #EBB300; */
 }
+
+/* .portfolio-text, .dark-mode h3,.dark-mode .color-mode{
+  color:#0c0c0d;
+} */
